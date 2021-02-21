@@ -1,0 +1,11 @@
+@font-face { 
+    font-family: "RubiusRegular";  
+    src: url("../fonts/RubiusRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+.name_text{
+    font-family: "RubiusRegular";
+    font-size: 150px;
+    color: rgb(124, 124, 124);
+}   
